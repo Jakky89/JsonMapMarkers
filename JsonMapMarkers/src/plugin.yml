@@ -1,0 +1,5 @@
+name: PlayerMarkers
+version: 0.4.3
+decsription: Generates Markers on an Overviewer map
+author: 1am3r and Jakky89
+main: de.gediam.Jakky89.PlayerMarkers.PlayerMarkers
